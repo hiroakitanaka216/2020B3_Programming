@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33d5d757-1b0b-44be-9ecb-1ea52730b1ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day1/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1/task5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.task4">
+  <component name="RunManager" selected="Python.task5">
     <configuration name="task1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2020B3_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -48,28 +48,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/task1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2020B3_Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,13 +122,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020B3_Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/task5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task5" />
         <item itemvalue="Python.task4" />
         <item itemvalue="Python.task3" />
         <item itemvalue="Python.task2" />
         <item itemvalue="Python.task1 (1)" />
-        <item itemvalue="Python.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583112277742</updated>
-      <workItem from="1583112280236" duration="4100000" />
+      <workItem from="1583112280236" duration="4906000" />
     </task>
     <task id="LOCAL-00001" summary="task1,2">
       <created>1583114277911</created>
@@ -194,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583115842514</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task1 task2 task3 task4">
+      <created>1583116389507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583116389507</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,33 +211,34 @@
     <MESSAGE value="task1,2" />
     <MESSAGE value="task1 task2" />
     <MESSAGE value="task1 task2 task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="task1 task2 task3" />
+    <MESSAGE value="task1 task2 task3 task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="task1 task2 task3 task4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583115842474">
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583116389463">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583115842474" />
-    <state width="1346" height="257" key="GridCell.Tab.0.bottom" timestamp="1583116374872">
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583116389463" />
+    <state width="1346" height="257" key="GridCell.Tab.0.bottom" timestamp="1583117350555">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="257" key="GridCell.Tab.0.bottom/67.27.2493.1573@67.27.2493.1573" timestamp="1583116374872" />
-    <state width="1346" height="257" key="GridCell.Tab.0.center" timestamp="1583116374871">
+    <state width="1346" height="257" key="GridCell.Tab.0.bottom/67.27.2493.1573@67.27.2493.1573" timestamp="1583117350555" />
+    <state width="1346" height="257" key="GridCell.Tab.0.center" timestamp="1583117350555">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="257" key="GridCell.Tab.0.center/67.27.2493.1573@67.27.2493.1573" timestamp="1583116374871" />
-    <state width="1346" height="257" key="GridCell.Tab.0.left" timestamp="1583116374871">
+    <state width="1346" height="257" key="GridCell.Tab.0.center/67.27.2493.1573@67.27.2493.1573" timestamp="1583117350555" />
+    <state width="1346" height="257" key="GridCell.Tab.0.left" timestamp="1583117350555">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="257" key="GridCell.Tab.0.left/67.27.2493.1573@67.27.2493.1573" timestamp="1583116374871" />
-    <state width="1346" height="257" key="GridCell.Tab.0.right" timestamp="1583116374871">
+    <state width="1346" height="257" key="GridCell.Tab.0.left/67.27.2493.1573@67.27.2493.1573" timestamp="1583117350555" />
+    <state width="1346" height="257" key="GridCell.Tab.0.right" timestamp="1583117350555">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="257" key="GridCell.Tab.0.right/67.27.2493.1573@67.27.2493.1573" timestamp="1583116374871" />
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583115845310">
+    <state width="1346" height="257" key="GridCell.Tab.0.right/67.27.2493.1573@67.27.2493.1573" timestamp="1583117350555" />
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583116390956">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583115845310" />
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583116390956" />
     <state x="975" y="640" key="com.intellij.ide.util.TipDialog" timestamp="1583112286857">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
@@ -246,5 +254,6 @@
     <SUITE FILE_PATH="coverage/2020B3_Programming$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1583115822221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task1__1_.coverage" NAME="task1 (1) Coverage Results" MODIFIED="1583114401968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1583113916700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2020B3_Programming$task5.coverage" NAME="task5 Coverage Results" MODIFIED="1583117350551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
   </component>
 </project>
