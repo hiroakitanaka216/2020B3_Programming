@@ -1,11 +1,9 @@
-for(int i=1; i<=30; i++){
-    if(i%15==0){
-         print("FizzBuzz\n")
-} elif(i%3==0 && i%15!=0){
-         print("Fizz\n")
-} elif(i%5==0 && i%15!=0){
-         print("Buzz\n")
-} else{
-      print(i)
-}
-}
+for num in range(1,31):
+  if num % 15 == 0:
+    print("FizzBuzz")
+  elif num % 5 == 0 and num % 15 !=0:
+    print("Buzz")
+  elif num % 3 == 0 and num % 15 !=0:
+    print("Fizz")
+  else:
+    print(num)
