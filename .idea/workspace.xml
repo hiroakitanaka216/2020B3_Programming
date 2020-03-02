@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33d5d757-1b0b-44be-9ecb-1ea52730b1ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day1/task10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1/task11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +33,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.task9">
-    <configuration name="task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.task8">
+    <configuration name="task10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2020B3_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +47,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/task5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/task10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2020B3_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +69,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/task6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/task11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task9" />
         <item itemvalue="Python.task8" />
+        <item itemvalue="Python.task10" />
+        <item itemvalue="Python.task9" />
+        <item itemvalue="Python.task11" />
         <item itemvalue="Python.task7" />
-        <item itemvalue="Python.task6" />
-        <item itemvalue="Python.task5" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583112277742</updated>
-      <workItem from="1583112280236" duration="15476000" />
+      <workItem from="1583112280236" duration="18541000" />
     </task>
     <task id="LOCAL-00001" summary="task1,2">
       <created>1583114277911</created>
@@ -243,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583127247548</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task1 task2 task3 task4 task5 task6 task7 task8 task9 task10">
+      <created>1583129046098</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1583129046098</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,33 +264,50 @@
     <MESSAGE value="task1 task2 task3 task4 task5" />
     <MESSAGE value="task1 task2 task3 task4 task5 task6" />
     <MESSAGE value="task1 task2 task3 task4 task5 task6 task7 task8" />
-    <option name="LAST_COMMIT_MESSAGE" value="task1 task2 task3 task4 task5 task6 task7 task8" />
+    <MESSAGE value="task1 task2 task3 task4 task5 task6 task7 task8 task9 task10" />
+    <option name="LAST_COMMIT_MESSAGE" value="task1 task2 task3 task4 task5 task6 task7 task8 task9 task10" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583127247493">
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583129046027">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583127247493" />
-    <state width="1346" height="257" key="GridCell.Tab.0.bottom" timestamp="1583125803040">
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583129046027" />
+    <state width="1346" height="257" key="GridCell.Tab.0.bottom" timestamp="1583131864148">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="257" key="GridCell.Tab.0.bottom/67.27.2493.1573@67.27.2493.1573" timestamp="1583125803040" />
-    <state width="1346" height="257" key="GridCell.Tab.0.center" timestamp="1583125803040">
+    <state width="1346" height="257" key="GridCell.Tab.0.bottom/67.27.2493.1573@67.27.2493.1573" timestamp="1583131864148" />
+    <state width="1346" height="257" key="GridCell.Tab.0.center" timestamp="1583131864148">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="257" key="GridCell.Tab.0.center/67.27.2493.1573@67.27.2493.1573" timestamp="1583125803040" />
-    <state width="1346" height="257" key="GridCell.Tab.0.left" timestamp="1583125803039">
+    <state width="1346" height="257" key="GridCell.Tab.0.center/67.27.2493.1573@67.27.2493.1573" timestamp="1583131864148" />
+    <state width="1346" height="257" key="GridCell.Tab.0.left" timestamp="1583131864148">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="257" key="GridCell.Tab.0.left/67.27.2493.1573@67.27.2493.1573" timestamp="1583125803039" />
-    <state width="1346" height="257" key="GridCell.Tab.0.right" timestamp="1583125803040">
+    <state width="1346" height="257" key="GridCell.Tab.0.left/67.27.2493.1573@67.27.2493.1573" timestamp="1583131864148" />
+    <state width="1346" height="257" key="GridCell.Tab.0.right" timestamp="1583131864148">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="257" key="GridCell.Tab.0.right/67.27.2493.1573@67.27.2493.1573" timestamp="1583125803040" />
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583127249063">
+    <state width="1346" height="257" key="GridCell.Tab.0.right/67.27.2493.1573@67.27.2493.1573" timestamp="1583131864148" />
+    <state width="1346" height="317" key="GridCell.Tab.1.bottom" timestamp="1583131649911">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583127249063" />
+    <state width="1346" height="317" key="GridCell.Tab.1.bottom/67.27.2493.1573@67.27.2493.1573" timestamp="1583131649911" />
+    <state width="1346" height="317" key="GridCell.Tab.1.center" timestamp="1583131649911">
+      <screen x="67" y="27" width="2493" height="1573" />
+    </state>
+    <state width="1346" height="317" key="GridCell.Tab.1.center/67.27.2493.1573@67.27.2493.1573" timestamp="1583131649911" />
+    <state width="1346" height="317" key="GridCell.Tab.1.left" timestamp="1583131649911">
+      <screen x="67" y="27" width="2493" height="1573" />
+    </state>
+    <state width="1346" height="317" key="GridCell.Tab.1.left/67.27.2493.1573@67.27.2493.1573" timestamp="1583131649911" />
+    <state width="1346" height="317" key="GridCell.Tab.1.right" timestamp="1583131649911">
+      <screen x="67" y="27" width="2493" height="1573" />
+    </state>
+    <state width="1346" height="317" key="GridCell.Tab.1.right/67.27.2493.1573@67.27.2493.1573" timestamp="1583131649911" />
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583129047265">
+      <screen x="67" y="27" width="2493" height="1573" />
+    </state>
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583129047265" />
     <state x="975" y="640" key="com.intellij.ide.util.TipDialog" timestamp="1583112286857">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
@@ -305,15 +329,17 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/2020B3_Programming$task8.coverage" NAME="task8 Coverage Results" MODIFIED="1583125549999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/2020B3_Programming$task10.coverage" NAME="task10 Coverage Results" MODIFIED="1583131851577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/2020B3_Programming$task8.coverage" NAME="task8 Coverage Results" MODIFIED="1583131864143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1583114997132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1583116374866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task6.coverage" NAME="task6 Coverage Results" MODIFIED="1583117468813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1583115822221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/2020B3_Programming$task11.coverage" NAME="task11 Coverage Results" MODIFIED="1583131827962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task1__1_.coverage" NAME="task1 (1) Coverage Results" MODIFIED="1583114401968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1583113916700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task7.coverage" NAME="task7 Coverage Results" MODIFIED="1583122201096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
-    <SUITE FILE_PATH="coverage/2020B3_Programming$task9.coverage" NAME="task9 Coverage Results" MODIFIED="1583125803018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/2020B3_Programming$task9.coverage" NAME="task9 Coverage Results" MODIFIED="1583131833920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task5.coverage" NAME="task5 Coverage Results" MODIFIED="1583117462561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
   </component>
 </project>
