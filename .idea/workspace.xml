@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33d5d757-1b0b-44be-9ecb-1ea52730b1ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day2/task1-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/task1-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/day2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YYGn7bA9DrwmNxbINjjUzEQZxL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,6 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Python.task11">
     <configuration name="task10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -164,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583112277742</updated>
       <workItem from="1583112280236" duration="22122000" />
-      <workItem from="1583802548461" duration="5970000" />
+      <workItem from="1583802548461" duration="6055000" />
     </task>
     <task id="LOCAL-00001" summary="task1,2">
       <created>1583114277911</created>
@@ -348,13 +352,23 @@
       <option name="project" value="LOCAL" />
       <updated>1583809131616</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="day2 task1-1">
+      <created>1583809262328</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1583809262328</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/day2" />
+    </ignored-roots>
     <MESSAGE value="task1,2" />
     <MESSAGE value="task1 task2" />
     <MESSAGE value="task1 task2 task3" />
@@ -368,10 +382,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="day2 task1-1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583809131584">
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583809262285">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583809131584" />
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583809262285" />
     <state x="67" y="224" width="1994" height="1288" key="DiffContextDialog" timestamp="1583808640847">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
@@ -412,14 +426,18 @@
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
     <state x="473" y="356" width="577" height="574" key="MultipleFileMergeDialog/67.27.2493.1573@67.27.2493.1573" timestamp="1583809050028" />
+    <state x="179" y="447" key="SettingsEditor" timestamp="1583809282567">
+      <screen x="67" y="27" width="2493" height="1573" />
+    </state>
+    <state x="179" y="447" key="SettingsEditor/67.27.2493.1573@67.27.2493.1573" timestamp="1583809282567" />
     <state x="694" y="918" width="302" height="180" key="VCS.ChangelistChooser" timestamp="1583133525361">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
     <state x="694" y="918" width="302" height="180" key="VCS.ChangelistChooser/67.27.2493.1573@67.27.2493.1573" timestamp="1583133525361" />
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583809132897">
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583809265097">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583809132897" />
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583809265097" />
     <state x="975" y="640" key="com.intellij.ide.util.TipDialog" timestamp="1583802551128">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
