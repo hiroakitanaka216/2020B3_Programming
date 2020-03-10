@@ -3,12 +3,14 @@ import random
 
 args = sys.argv
 
-for i in range(1,len(args)+1):
-    s = args[i]
-    t = s[1:len(s)-1]
-    s0 = s[0]
-    sl = s[len(s)-1]
-    tr = ''.join(random.sample(t, len(t)))
-    u = s0 + tr + sl
-    print(u)
+for word in args[1:]:
+    if len(word) >= 4:
+        t = word[1:-1]
+        tr = ''.join(random.sample(t, len(t)))
+        u = word[0] + tr + word[-1]
 
+    else:
+        u = word
+
+    print(u, end=" ")
+print()
