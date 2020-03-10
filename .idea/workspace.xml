@@ -2,26 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33d5d757-1b0b-44be-9ecb-1ea52730b1ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/hiroakitanaka.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/task2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/task2_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/2020B3_Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2020B3_Programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/hiroakitanaka.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/hiroakitanaka.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/task10.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/task10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/task11.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/task11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/task5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/task7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/task8.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/task8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/task9.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/task9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/task2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/task2_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,10 +46,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day2/task2_2.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.task11">
+  <component name="RunManager" selected="Python.task2_2">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="2020B3_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,17 +91,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task2_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2020B3_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/task11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/task2_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +175,11 @@
       <item itemvalue="Python.task7" />
       <item itemvalue="Python.task9" />
       <item itemvalue="Python.task10" />
-      <item itemvalue="Python.task11" />
+      <item itemvalue="Python.task2_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task11" />
+        <item itemvalue="Python.task2_2" />
         <item itemvalue="Python.task10" />
         <item itemvalue="Python.task9" />
         <item itemvalue="Python.task8" />
@@ -198,7 +200,7 @@
       <workItem from="1583112280236" duration="22122000" />
       <workItem from="1583802548461" duration="10499000" />
       <workItem from="1583815357256" duration="1505000" />
-      <workItem from="1583817249840" duration="2171000" />
+      <workItem from="1583817249840" duration="2358000" />
     </task>
     <task id="LOCAL-00001" summary="task1,2">
       <created>1583114277911</created>
@@ -417,7 +419,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583813205651</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="day2 task1-1">
+      <created>1583819424138</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1583819424138</updated>
+    </task>
+    <task id="LOCAL-00033" summary="day2 task1-1">
+      <created>1583819429794</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1583819429794</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,50 +456,54 @@
     <option name="LAST_COMMIT_MESSAGE" value="day2 task1-1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="488" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583818556341">
+    <state x="253" y="488" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583819608141">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="253" y="488" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1573@67.27.2493.1573" timestamp="1583818556341" />
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583819424038">
+    <state x="253" y="488" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1573@67.27.2493.1573" timestamp="1583819608141" />
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583819429721">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583819424038" />
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583819429721" />
     <state x="67" y="224" width="1994" height="1288" key="DiffContextDialog" timestamp="1583808640847">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
     <state x="67" y="224" width="1994" height="1288" key="DiffContextDialog/67.27.2493.1573@67.27.2493.1573" timestamp="1583808640847" />
-    <state width="1346" height="256" key="GridCell.Tab.0.bottom" timestamp="1583817898458">
+    <state x="578" y="588" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583819606477">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="256" key="GridCell.Tab.0.bottom/67.27.2493.1573@67.27.2493.1573" timestamp="1583817898458" />
-    <state width="1346" height="256" key="GridCell.Tab.0.center" timestamp="1583817898457">
+    <state x="578" y="588" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1573@67.27.2493.1573" timestamp="1583819606477" />
+    <state width="1346" height="317" key="GridCell.Tab.0.bottom" timestamp="1583819560520">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="256" key="GridCell.Tab.0.center/67.27.2493.1573@67.27.2493.1573" timestamp="1583817898457" />
-    <state width="1346" height="256" key="GridCell.Tab.0.left" timestamp="1583817898457">
+    <state width="1346" height="317" key="GridCell.Tab.0.bottom/67.27.2493.1573@67.27.2493.1573" timestamp="1583819560520" />
+    <state width="1346" height="317" key="GridCell.Tab.0.center" timestamp="1583819560519">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="256" key="GridCell.Tab.0.left/67.27.2493.1573@67.27.2493.1573" timestamp="1583817898457" />
-    <state width="1346" height="256" key="GridCell.Tab.0.right" timestamp="1583817898458">
+    <state width="1346" height="317" key="GridCell.Tab.0.center/67.27.2493.1573@67.27.2493.1573" timestamp="1583819560519" />
+    <state width="1346" height="317" key="GridCell.Tab.0.left" timestamp="1583819560519">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="256" key="GridCell.Tab.0.right/67.27.2493.1573@67.27.2493.1573" timestamp="1583817898458" />
-    <state width="1346" height="317" key="GridCell.Tab.1.bottom" timestamp="1583140529573">
+    <state width="1346" height="317" key="GridCell.Tab.0.left/67.27.2493.1573@67.27.2493.1573" timestamp="1583819560519" />
+    <state width="1346" height="317" key="GridCell.Tab.0.right" timestamp="1583819560519">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="317" key="GridCell.Tab.1.bottom/67.27.2493.1573@67.27.2493.1573" timestamp="1583140529573" />
-    <state width="1346" height="317" key="GridCell.Tab.1.center" timestamp="1583140529572">
+    <state width="1346" height="317" key="GridCell.Tab.0.right/67.27.2493.1573@67.27.2493.1573" timestamp="1583819560519" />
+    <state width="1346" height="317" key="GridCell.Tab.1.bottom" timestamp="1583819560520">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="317" key="GridCell.Tab.1.center/67.27.2493.1573@67.27.2493.1573" timestamp="1583140529572" />
-    <state width="1346" height="317" key="GridCell.Tab.1.left" timestamp="1583140529572">
+    <state width="1346" height="317" key="GridCell.Tab.1.bottom/67.27.2493.1573@67.27.2493.1573" timestamp="1583819560520" />
+    <state width="1346" height="317" key="GridCell.Tab.1.center" timestamp="1583819560520">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="317" key="GridCell.Tab.1.left/67.27.2493.1573@67.27.2493.1573" timestamp="1583140529572" />
-    <state width="1346" height="317" key="GridCell.Tab.1.right" timestamp="1583140529573">
+    <state width="1346" height="317" key="GridCell.Tab.1.center/67.27.2493.1573@67.27.2493.1573" timestamp="1583819560520" />
+    <state width="1346" height="317" key="GridCell.Tab.1.left" timestamp="1583819560520">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state width="1346" height="317" key="GridCell.Tab.1.right/67.27.2493.1573@67.27.2493.1573" timestamp="1583140529573" />
+    <state width="1346" height="317" key="GridCell.Tab.1.left/67.27.2493.1573@67.27.2493.1573" timestamp="1583819560520" />
+    <state width="1346" height="317" key="GridCell.Tab.1.right" timestamp="1583819560520">
+      <screen x="67" y="27" width="2493" height="1573" />
+    </state>
+    <state width="1346" height="317" key="GridCell.Tab.1.right/67.27.2493.1573@67.27.2493.1573" timestamp="1583819560520" />
     <state x="473" y="356" width="577" height="574" key="MultipleFileMergeDialog" timestamp="1583809050028">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
@@ -496,10 +516,10 @@
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
     <state x="694" y="918" width="302" height="180" key="VCS.ChangelistChooser/67.27.2493.1573@67.27.2493.1573" timestamp="1583133525361" />
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583813206909">
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583819431326">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583813206909" />
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583819431326" />
     <state x="975" y="640" key="com.intellij.ide.util.TipDialog" timestamp="1583817251118">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
@@ -526,7 +546,7 @@
     <SUITE FILE_PATH="coverage/2020B3_Programming$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1583114997132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task6.coverage" NAME="task6 Coverage Results" MODIFIED="1583117468813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1583115822221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
-    <SUITE FILE_PATH="coverage/2020B3_Programming$task11.coverage" NAME="task11 Coverage Results" MODIFIED="1583810552589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/2020B3_Programming$task11.coverage" NAME="task11 Coverage Results" MODIFIED="1583819556994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task7.coverage" NAME="task7 Coverage Results" MODIFIED="1583122201096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
   </component>
 </project>
