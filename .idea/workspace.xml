@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="33d5d757-1b0b-44be-9ecb-1ea52730b1ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/task1-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/task1-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583112277742</updated>
       <workItem from="1583112280236" duration="22122000" />
-      <workItem from="1583802548461" duration="831000" />
+      <workItem from="1583802548461" duration="1557000" />
     </task>
     <task id="LOCAL-00001" summary="task1,2">
       <created>1583114277911</created>
@@ -264,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583803069678</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="day2 first commit">
+      <created>1583803382662</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1583803382662</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,10 +291,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="day2 first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583803069579">
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583803382592">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583803069579" />
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583803382592" />
     <state width="1346" height="317" key="GridCell.Tab.0.bottom" timestamp="1583140529572">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
@@ -323,10 +331,10 @@
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
     <state x="694" y="918" width="302" height="180" key="VCS.ChangelistChooser/67.27.2493.1573@67.27.2493.1573" timestamp="1583133525361" />
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583803072648">
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583803383979">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583803072648" />
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583803383979" />
     <state x="975" y="640" key="com.intellij.ide.util.TipDialog" timestamp="1583802551128">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
@@ -354,7 +362,7 @@
     <SUITE FILE_PATH="coverage/2020B3_Programming$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1583116374866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task6.coverage" NAME="task6 Coverage Results" MODIFIED="1583117468813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1583115822221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
-    <SUITE FILE_PATH="coverage/2020B3_Programming$task11.coverage" NAME="task11 Coverage Results" MODIFIED="1583133538369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/2020B3_Programming$task11.coverage" NAME="task11 Coverage Results" MODIFIED="1583804043243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task1__1_.coverage" NAME="task1 (1) Coverage Results" MODIFIED="1583114401968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1583113916700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2020B3_Programming$task7.coverage" NAME="task7 Coverage Results" MODIFIED="1583122201096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
