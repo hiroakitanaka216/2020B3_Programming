@@ -8,8 +8,8 @@ b = np.array([0.1, 0.2, 0.3])
 t = np.dot(W.T, x) + b
 
 
-def relu(tmp):
+def SingleLayer(tmp):
     return np.maximum(0, tmp)
 
 
-print(relu(t))
+print(SingleLayer(t))

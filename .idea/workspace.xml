@@ -4,6 +4,7 @@
     <list default="true" id="33d5d757-1b0b-44be-9ecb-1ea52730b1ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day2/task2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/task2_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/task2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/task2_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day2/task2_2.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.task2_2">
+  <component name="RunManager" selected="Python.task2_5">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="2020B3_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,17 +110,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task2_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2020B3_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/task7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/task2_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,22 +129,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task2_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2020B3_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/task8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/task2_5.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -170,19 +168,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.task8" />
-      <item itemvalue="Python.task7" />
       <item itemvalue="Python.task9" />
       <item itemvalue="Python.task10" />
       <item itemvalue="Python.task2_2" />
+      <item itemvalue="Python.task2_4" />
+      <item itemvalue="Python.task2_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task2_5" />
+        <item itemvalue="Python.task2_4" />
         <item itemvalue="Python.task2_2" />
         <item itemvalue="Python.task10" />
         <item itemvalue="Python.task9" />
-        <item itemvalue="Python.task8" />
-        <item itemvalue="Python.task7" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +197,7 @@
       <workItem from="1583112280236" duration="22122000" />
       <workItem from="1583802548461" duration="10499000" />
       <workItem from="1583815357256" duration="1505000" />
-      <workItem from="1583817249840" duration="3390000" />
+      <workItem from="1583817249840" duration="7622000" />
     </task>
     <task id="LOCAL-00001" summary="task1,2">
       <created>1583114277911</created>
@@ -439,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583819643764</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="day2">
+      <created>1583820980133</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1583820980133</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,17 +464,22 @@
     <MESSAGE value="task1 task2 task3 task4 task5 task6 task7 task8 task9 task10" />
     <MESSAGE value="day2 first commit" />
     <MESSAGE value="day2 task1-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day2 task1-1" />
+    <MESSAGE value="day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="488" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583820928138">
+    <state x="232" y="491" width="800" height="677" key="#Inspections" timestamp="1583821709825">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="253" y="488" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1573@67.27.2493.1573" timestamp="1583820928138" />
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583819643700">
+    <state x="232" y="491" width="800" height="677" key="#Inspections/67.27.2493.1573@67.27.2493.1573" timestamp="1583821709825" />
+    <state x="253" y="488" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583821092977">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583819643700" />
+    <state x="253" y="488" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1573@67.27.2493.1573" timestamp="1583821092977" />
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1583820980060">
+      <screen x="67" y="27" width="2493" height="1573" />
+    </state>
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1583820980060" />
     <state x="67" y="224" width="1994" height="1288" key="DiffContextDialog" timestamp="1583808640847">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
@@ -522,10 +532,10 @@
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
     <state x="694" y="918" width="302" height="180" key="VCS.ChangelistChooser/67.27.2493.1573@67.27.2493.1573" timestamp="1583133525361" />
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583819645044">
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1583820981395">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583819645044" />
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1583820981395" />
     <state x="975" y="640" key="com.intellij.ide.util.TipDialog" timestamp="1583817251118">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
