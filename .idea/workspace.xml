@@ -50,7 +50,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day2/task2_2.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.task2_5">
+  <component name="RunManager" selected="Python.task3_3">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="2020B3_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,25 +65,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2020B3_Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/task2_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,20 +149,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task3_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020B3_Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/task3_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.task2_1" />
       <item itemvalue="Python.task2_2" />
       <item itemvalue="Python.task2_3" />
       <item itemvalue="Python.task2_4" />
       <item itemvalue="Python.task2_5" />
+      <item itemvalue="Python.task3_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task3_3" />
         <item itemvalue="Python.task2_5" />
         <item itemvalue="Python.task2_4" />
         <item itemvalue="Python.task2_3" />
         <item itemvalue="Python.task2_2" />
-        <item itemvalue="Python.task2_1" />
       </list>
     </recent_temporary>
   </component>
@@ -513,10 +513,10 @@
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
     <state x="253" y="488" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1573@67.27.2493.1573" timestamp="1583828532298" />
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1584411321994">
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1584413791928">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1584411321994" />
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1584413791928" />
     <state x="67" y="224" width="1994" height="1288" key="DiffContextDialog" timestamp="1583808640847">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
@@ -569,10 +569,10 @@
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
     <state x="694" y="918" width="302" height="180" key="VCS.ChangelistChooser/67.27.2493.1573@67.27.2493.1573" timestamp="1583133525361" />
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1584411323363">
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1584413793096">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1584411323363" />
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1584413793096" />
     <state x="975" y="640" key="com.intellij.ide.util.TipDialog" timestamp="1584406998352">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
