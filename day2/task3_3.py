@@ -18,4 +18,4 @@ class Softmax:
 
 aSoftmax = Softmax()
 print(aSoftmax.forward(np.array([-0.5, 0.0, 1.0, 2.0])))
-print(aSoftmax.backward(np.array([-0.5, 0.0, 1.0, 2.0])))
+print(aSoftmax.backward())
