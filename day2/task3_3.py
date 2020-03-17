@@ -17,5 +17,10 @@ class Softmax:
 
 
 aSoftmax = Softmax()
-print(aSoftmax.forward(np.array([-0.5, 0.0, 1.0, 2.0])))
-print(aSoftmax.backward())
+
+out = aSoftmax.forward(np.array([-0.5, 0.0, 1.0, 2.0]))
+print(out)
+
+dout = out
+dx = aSoftmax.backward(dout)
+print(dout)

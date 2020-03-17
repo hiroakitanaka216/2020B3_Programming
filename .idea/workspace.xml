@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="33d5d757-1b0b-44be-9ecb-1ea52730b1ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/task3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/task3_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day2/task3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/task3_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day2/task2_2.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.task3_2">
+  <component name="RunManager" selected="Python.task3_3">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="2020B3_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,9 +177,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task3_3" />
         <item itemvalue="Python.task3_2" />
         <item itemvalue="Python.task3_1" />
-        <item itemvalue="Python.task3_3" />
         <item itemvalue="Python.task3_4" />
         <item itemvalue="Python.task2_5" />
       </list>
@@ -200,7 +199,7 @@
       <workItem from="1583802548461" duration="10499000" />
       <workItem from="1583815357256" duration="1505000" />
       <workItem from="1583817249840" duration="11046000" />
-      <workItem from="1584406996373" duration="11715000" />
+      <workItem from="1584406996373" duration="12214000" />
     </task>
     <task id="LOCAL-00001" summary="task1,2">
       <created>1583114277911</created>
@@ -503,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584413979735</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="day2 task3_4">
+      <created>1584420222785</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1584420222785</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,10 +542,10 @@
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
     <state x="253" y="488" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1573@67.27.2493.1573" timestamp="1583828532298" />
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1584413979659">
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2" timestamp="1584420222707">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1584413979659" />
+    <state x="393" y="407" width="839" height="922" key="CommitChangelistDialog2/67.27.2493.1573@67.27.2493.1573" timestamp="1584420222707" />
     <state x="67" y="224" width="1994" height="1288" key="DiffContextDialog" timestamp="1583808640847">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
@@ -592,10 +598,10 @@
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
     <state x="694" y="918" width="302" height="180" key="VCS.ChangelistChooser/67.27.2493.1573@67.27.2493.1573" timestamp="1583133525361" />
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1584413980758">
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1584420223737">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
-    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1584413980758" />
+    <state x="413" y="602" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.2493.1573@67.27.2493.1573" timestamp="1584420223737" />
     <state x="975" y="640" key="com.intellij.ide.util.TipDialog" timestamp="1584406998352">
       <screen x="67" y="27" width="2493" height="1573" />
     </state>
