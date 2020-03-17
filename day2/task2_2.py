@@ -8,4 +8,5 @@ def relu(x):
     return np.maximum(0, x)
 
 
-print(relu(t))
+if __name__=='__main__':
+    print(relu(t))

@@ -2,8 +2,10 @@
   <dictionary name="hiroakitanaka">
     <words>
       <w>arelu</w>
+      <w>dout</w>
       <w>perceptron</w>
       <w>relu</w>
+      <w>softmax</w>
     </words>
   </dictionary>
 </component>

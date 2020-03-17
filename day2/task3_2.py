@@ -2,6 +2,7 @@ import numpy as np
 class relu:
     def __init__(self):
         self.mask = None
+
     def forward(self, x):
         self.mask = (x <= 0)
         out = x.copy()
@@ -18,3 +19,4 @@ class relu:
 arelu = relu()
 print(arelu.forward(np.array([-0.5, 0.0, 1.0, 2.0])))
 print(arelu.backward(np.array([-0.5, 0.0, 1.0, 2.0])))
+
